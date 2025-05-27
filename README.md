@@ -1,6 +1,7 @@
 # Deckr-Public
 💘 Deckr — MTG Card Collector — Swipe Your Way to the Ultimate Deck
 Tired of clunky spreadsheets and dull card lists? Meet your new cardboard crush. MTG Card Collector lets you manage your Magic: The Gathering collection like you're on a dating app — fast, fun, and full of potential.
+https://deckr.onrender.com/
 
 🔮 Features
 👈👉 Swipe Left or Right — Add cards to your collection (or pass) with a simple gesture, just like your favorite dating app.
