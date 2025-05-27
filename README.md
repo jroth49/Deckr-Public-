@@ -25,3 +25,8 @@ https://deckr.onrender.com/
 🔍 Powerful Search — Quickly find the card you’re looking for by name, type, or keyword. No more digging.
 
 ![search](search.gif)
+
+
+🧱 Architecture Diagram
+Here’s a high-level overview of how the app is structured:
+![diagram]
