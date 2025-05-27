@@ -29,4 +29,4 @@ https://deckr.onrender.com/
 
 🧱 Architecture Diagram
 Here’s a high-level overview of how the app is structured:
-![diagram](daigram.png)
+![diagram](diagram.png)
