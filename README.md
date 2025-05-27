@@ -12,6 +12,7 @@ Tired of clunky spreadsheets and dull card lists? Meet your new cardboard crush.
 
 📂 View Your Saved Cards — See all your matches in one place — no ghosting here.
 
+![scroll](scroll.gif)
 
 
 🌙 Light & Dark Mode — Whether you’re building your deck at dawn or drafting at dusk, we’ve got the perfect vibe.
